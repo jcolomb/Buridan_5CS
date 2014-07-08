@@ -128,7 +128,7 @@ DiffCS1st/CSJC_5.xml	CS_JC
 DiffCS1st/CSTP_6.xml	CS_TP
 DiffCS1st/CSTZ_6.xml	CS_TZ
 DiffCS1st/CSHS_6.xml	CS_HS
-DiffCS1st/CSbvs_6.xml	CS_bvs
+
 DiffCS1st/CSJC_6.xml	CS_JC
 
 DiffCS1st/CSTP_7.xml	CS_TP
