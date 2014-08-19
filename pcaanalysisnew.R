@@ -35,6 +35,11 @@ setwd("/Users/colombj/Desktop/")
 	PCA_res$other[PCA_res$other=="2ndcross"]="2013"
 	PCA_res$other[PCA_res$other=="1stcross"]="2012"
 	PCA_res$other=droplevels(PCA_res$other)
+	
+	levels(PCA_res$group)=c (levels(PCA_res$group),"CS_botella")
+	PCA_res$group[PCA_res$group =="5Tage-mit"]="CS_botella"
+	
+	PCA_res$group =droplevels(PCA_res$group)
 ##
 
 
@@ -174,3 +179,4 @@ for (i in 1:length(levels(PCA_res$group))){
   
 	}
 
+dev.off()
