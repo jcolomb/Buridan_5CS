@@ -69,6 +69,9 @@ DiffCSAB/CSTZ_B3.xml	CSTZ_B
 DiffCSCD/CSTZ_C3.xml	CSTZ_C
 DiffCSCD/CSTZ_D3.xml	CSTZ_D
 
+DiffCSAB/CSTZ_A4.xml	CSTZ_A
+DiffCSAB/CSTZ_B4.xml	CSTZ_B
+
 
 DiffCSAB/CSJC_A4.xml	CSJC_A
 DiffCSAB/CSJC_B4.xml	CSJC_B
@@ -84,6 +87,8 @@ DiffCSAB/CSBvS_A4.xml	CSBvS_A
 DiffCSAB/CSBvS_B4.xml	CSBvS_B
 DiffCSCD/CSBvS_C4.xml	CSBvS_C
 DiffCSCD/CSBvS_D4.xml	CSBvS_D
+
+DiffCSAB/CSBvS_A5.xml	CSBvS_A
 
 DiffCSAB/CSHS_A4.xml	CSHS_A
 DiffCSAB/CSHS_B4.xml	CSHS_B
@@ -168,4 +173,5 @@ DiffCS1st/CSHS_12.xml	CS_HS
 DiffCS1st/CSbvs_12.xml	CS_bvs
 DiffCS1st/CSJC_12.xml	CS_JC
 
-
+DiffCSAB/CSHS_A2.xml	CSHS_A
+DiffCSAB/CSHS_B2.xml	CSHS_B
